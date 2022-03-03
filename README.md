@@ -1,2 +1,2 @@
 # Web-based-Data-Mining-Tool-by-R-Shiny
-### Code was written in 2013. R and Shiny package will need to be upgraded to work. 
+### Code was written in 2013 and will need to modified to work in the lastest version of R and Shiny package. 
